@@ -1,0 +1,12 @@
+{
+  "name": "transactions-tracker-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "install-backend": "npm install --prefix backend",
+    "install-frontend": "npm install --prefix frontend",
+    "dev": "npm run dev --prefix backend"
+  },
+  "keywords": [],
+  "author": "Wissem Grari",
+  "license": "ISC"
+}
