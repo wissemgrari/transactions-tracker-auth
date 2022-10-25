@@ -40,7 +40,7 @@ const Home = () => {
     return () => {
       dispatch(reset());
     };
-  }, [dispatch, navigate, user, isError]);
+  }, [dispatch, navigate, user, message, isError]);
 
   if (isLoading) {
     toast.loading('Loading...', {

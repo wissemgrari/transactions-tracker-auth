@@ -1,4 +1,4 @@
-const API_URL = 'https://transactions-tracker-auth.herokuapp.com';
+const API_URL = 'http://localhost:5000';
 
 // GET TRANSACTIONS
 const getTransactions = async (token) => {
