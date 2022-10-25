@@ -229,7 +229,7 @@ const Signin = () => {
                 sx={{ my: 1 }}
                 type='submit'
               >
-                SIGN UP
+                SIGN IN
               </Button>
             ) : (
               <LoadingButton
