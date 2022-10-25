@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://transaction-tracker.onrender.com';
 
 // Signing up users
 const signup = async (userData) => {

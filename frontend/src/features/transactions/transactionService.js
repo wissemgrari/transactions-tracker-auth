@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://transaction-tracker.onrender.com';
 
 // GET TRANSACTIONS
 const getTransactions = async (token) => {
