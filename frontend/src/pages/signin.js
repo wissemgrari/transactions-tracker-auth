@@ -239,7 +239,7 @@ const Signin = () => {
                 variant='contained'
                 fullWidth
               >
-                Signing up
+                Signing in
               </LoadingButton>
             )}
           </form>
